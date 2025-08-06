@@ -33,7 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Icon(Icons.shopping_cart,
             size: 250,
             color: Colors.white),
-            Text("Cocacola",
+            Text("Cocacolas",
             style: TextStyle(
               color: Colors.red,
               fontSize: 40,
